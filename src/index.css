@@ -1,0 +1,94 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin:0 auto;
+  width: 800px;
+
+}
+
+#header-input {
+  width: 800px;
+  height: 40px;
+  font-size: 16px;
+  border-radius: 5px;
+  border:1px solid lightskyblue;
+}
+
+ul {
+  list-style: none;
+  margin-top: 30px;
+  border: 1px solid lightskyblue;
+  border-radius: 5px;
+  text-align: center;
+  vertical-align: center;
+}
+
+ul li {
+  width: 800px;
+  height: 50px;
+  border-bottom: 1px solid lightskyblue;
+  margin-left: -42px;
+  text-align: center;
+  line-height: 50px;
+
+}
+
+ul li:hover{
+  background-color: lightskyblue;
+}
+
+li span{
+  float: left;
+}
+
+li input{
+  float: left;
+  margin-top: 19px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+button {
+  width: 65px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: #ff3333;
+  float: right;
+  margin-right: 10px;
+  margin-top: 5px;
+  color:#ffffff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#footer{
+  width: 800px;
+  font-size: 16px;
+}
+
+#footer button{
+  width: 125px;
+  height: 35px;
+}
+
+#footer-left{
+  float:left;
+  margin-top: 10px;
+
+}
+
+#footer-left input{
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#footer-right{
+  float: right;
+}
+
+#footer-right span{
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 25px;
+}
