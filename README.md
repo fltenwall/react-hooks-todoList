@@ -14,3 +14,4 @@ yarn start
 效果展示：
 ![image](https://github.com/fltenwall/-image/blob/master/todolist-02.jpg)
 
+![image](https://github.com/fltenwall/-image/blob/master/todolist.gif)
